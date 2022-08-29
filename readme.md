@@ -1,6 +1,6 @@
 # CS662 Assignment 1
 
-###Due Date: Monday, Sept 13, start of class.
+### Due Date: Monday, Sept 12, start of class.
 
 In this assignment, you'll characterize some AI problems according to the different parameters presented in lecture and in the text. 
 This assignment is also meant to get you up to speed with Python. For all
